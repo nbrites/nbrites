@@ -6,7 +6,6 @@
 - ☁️ Building cloud-based web applications and distributed systems
 - 🚀 Shipped products across insuretech, energy, and B2B marketplaces
 - 🧪 Advocate for CI/CD, testing, and smooth developer experience
-- 🌍 Based in Lisbon, Portugal
 
 ## 🌱 What I'm Working On
 
